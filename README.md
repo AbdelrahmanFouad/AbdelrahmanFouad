@@ -1,7 +1,7 @@
 <!-- Banner -->
 <div align="center">
   <h1>Abdelrahman Fouad</h1>
-  <h3>Senior Digital Operations Lead · Audio Engineering Expert · Python Automation Architect</h3>
+  <h3>Senior Digital Operations Lead · Python Automation Architect · Audio Engineer</h3>
   <p>
     <a href="https://abdelrahmanfouad.github.io"><img src="https://img.shields.io/badge/Portfolio-abdelrahmanfouad.github.io-6c63ff?style=for-the-badge&logo=github" /></a>
     <a href="mailto:abderhmana@gmail.com"><img src="https://img.shields.io/badge/Email-abderhmana@gmail.com-EA4335?style=for-the-badge&logo=gmail" /></a>
@@ -11,9 +11,9 @@
 
 ---
 
-## 👋 About Me
+### 👋 About Me
 
-I'm a **Senior Digital Operations Lead at DigiSay** — one of the MENA region's top music distributors — where I architect Python tools that reduce manual operational workload by **90–200%**.
+Senior Digital Operations Lead at **DigiSay** — one of the MENA region's top music distributors — where I architect Python tools that reduce manual operational workload by **90–200%**.
 
 My work sits at the intersection of **music technology**, **data engineering**, and **AI automation**:
 
@@ -24,20 +24,68 @@ My work sits at the intersection of **music technology**, **data engineering**, 
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Excelerate**](https://github.com/AbdelrahmanFouad/SpreadsheetAI) | AI-powered spreadsheet analyst — transform data with natural language | Python, Streamlit, Gemini AI, PandasAI |
-| [**DDEX Delivery Toolkit**](https://github.com/AbdelrahmanFouad/ddex-delivery-toolkit) | DDEX ERN 3.8.2 XML generator for TikTok, YouTube & Facebook | Python, Streamlit, XML/DDEX |
-| [**Media Batch Downloader**](https://github.com/AbdelrahmanFouad/media-batch-downloader) | Parallel YouTube/Facebook/Instagram audio batch downloader | Python, yt-dlp, FFmpeg |
-| [**SRT AI Translator**](https://github.com/AbdelrahmanFouad/subtitle-editor) | Subtitle editor + English→Arabic AI translation with key rotation | Python, Streamlit, Gemini AI |
-| [**Music Catalog Tools**](https://github.com/AbdelrahmanFouad/music-catalog-tools) | UPC-based file organizer, CSV encoding converter, DSP data transformer | Python, Pandas |
-| [**CSV Correlation Tool**](https://github.com/AbdelrahmanFouad/csv-flask) | Compare two datasets, download missing/existing rows instantly | Python, Flask, Vercel |
+<table>
+<tr>
+<td width="50%">
+
+#### [🧠 Excelerate — AI Data Analyst](https://github.com/AbdelrahmanFouad/SpreadsheetAI)
+Transform CSV/Excel data using **natural language** — powered by Gemini AI + PandasAI. Upload any dataset, ask questions in plain English, get transformed results.
+
+`Python` `Streamlit` `Gemini AI` `PandasAI`
+
+</td>
+<td width="50%">
+
+#### [📦 DDEX Delivery Toolkit](https://github.com/AbdelrahmanFouad/ddex-delivery-toolkit)
+1,000+ line Streamlit app generating **DDEX ERN 3.8.2** XML for TikTok, YouTube Content ID & Facebook. Handles bilingual Arabic/English metadata, Anghami & Fuga takedowns.
+
+`Python` `Streamlit` `DDEX` `XML`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [📥 Media Batch Downloader](https://github.com/AbdelrahmanFouad/media-batch-downloader)
+Production-grade **parallel batch downloader** for YouTube, Facebook, Instagram Reels & Udio. Retry logic, multi-format output (MP3/FLAC/WAV), manifest tracking.
+
+`Python` `yt-dlp` `Playwright` `FFmpeg`
+
+</td>
+<td width="50%">
+
+#### [🌐 SRT AI Translator](https://github.com/AbdelrahmanFouad/subtitle-editor)
+Subtitle editor + **English→Arabic AI translation** using Gemini with multi-key rotation, model fallback, and batch processing. Deployed on Streamlit Community Cloud.
+
+`Python` `Streamlit` `Gemini AI`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [🗂️ Music Catalog Tools](https://github.com/AbdelrahmanFouad/music-catalog-tools)
+6-tool Python suite for music catalog ops: **DSP data transformer**, UPC/ISRC file organizer, DDEX packager, Anghami ID scraper, YouTube metadata enricher, FLAC duration extractor.
+
+`Python` `Pandas` `Selenium` `FFmpeg`
+
+</td>
+<td width="50%">
+
+#### [🔍 YouTube Asset Tools](https://github.com/AbdelrahmanFouad/youtube-asset-tools)
+Resolve YouTube Content ID **asset IDs to video URLs** via the YouTube Data API v3. Snippet-based confirmation, batch CSV processing, quota-aware rate limiting.
+
+`Python` `YouTube API` `Requests`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -54,27 +102,16 @@ My work sits at the intersection of **music technology**, **data engineering**, 
 
 </div>
 
-**Specialized Knowledge:**
-- DDEX ERN 3.8.2 / XML Schema (XSD) / Digital Music Standards
-- DSP Platforms: YouTube CMS, TikTok, Spotify, Apple Music, Anghami
-- Audio: Ableton Live, FL Studio, iZotope RX, Cave Studios (Cairo)
+**Specialized:** DDEX ERN 3.8.2 / XML Schema (XSD) · YouTube CMS / Content ID · TikTok · Spotify · Apple Music · Anghami · Ableton Live · FL Studio · iZotope RX
 
 ---
 
-## 📈 GitHub Stats
+### 📈 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanFouad&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanFouad&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelrahmanFouad&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelrahmanFouad&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </div>
-
----
-
-## 🎯 Currently Working On
-
-- 🏗️ Scaling DDEX automated delivery pipelines across 10,000+ catalog releases
-- 📊 Building Power BI dashboards for multi-DSP revenue analysis
-- 🤖 AI-powered metadata enrichment for Arabic music catalogs
 
 ---
 
